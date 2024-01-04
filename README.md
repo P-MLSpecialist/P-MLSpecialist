@@ -1,8 +1,6 @@
-✨ **Data** is God in the world of Machine Learning✨
-
 **Hey Data Dreamers!**
 
-🚀 Ready to dive into a world where data reigns supreme? Let's make magic together! 
+🚀 **Data** is God in the world of Machine Learning! Ready to dive into a world where data reigns supreme? Let's make magic together!
 
 I'm not just a **Python Developer** and **Machine Learning Specialist**; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in **Machine Learning** and **Computer Vision** as a **researcher** and **developer**.
 
