@@ -26,59 +26,60 @@ Imputation, Scaling, Encoding
 
 The following are some of the notable data science projects I have worked on. Each project showcases my skills in data analysis, machine learning model development, and insights extraction.
 
-## Image classification 
-💡**Diagnosis Diabetic Retinopathy (PyTorch)** 👀
+## Classification Models
+💡**Diagnosis Diabetic Retinopathy (PyTorch)**
 
 - Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
 - Technologies: Convolutional neural network, Pytorch, OOP
 - GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-MLSpecialist/Diagnosis-of-Diabetic-Retinopathy)
   
-💡**Detection Brain Tumor (PyTorch)** 🧠
+💡**Detection Brain Tumor (PyTorch)**
 - Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
 - Technologies: Convolutional neural network, Pytorch, OOP
 - GitHub Repository: [Brain Tumor Detection](https://github.com/P-MLSpecialist/Brain-Tumor-Detection)
 
-💡**Pneumonia Diagnosis (Transfer Learning)** 🫁🤖
+💡**Pneumonia Diagnosis (Transfer Learning)**
 - Description: Chest X-ray Classification for Pneumonia Detection
 - Technologies: Convolutional neural network, TensorFlow, Transfer Learning
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-MLSpecialist/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
    
-💡**Ticket Cancellation Prediction (XGBoost Classifier)** 🎫
+💡**Ticket Cancellation Prediction (XGBoost Classifier)**
 - Description: This project aims to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
 - Technologies: sklearn, xgboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-MLSpecialist/Prediction_Of_Ticket_Cancellation_Acc_98/tree/main)
 
 
-💡**Detection of Type-2 Diabetes Mellitus Disease**🩸📉
+💡**Detection of Type-2 Diabetes Mellitus Disease**
 
 - Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
 - Technologies: sklearn, xgboost, catboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-MLSpecialist/Prediction_Of_Diabetes_XGBoost_CatBoost)
 - 
-💡**Analyzing Previous Marketing Campaign Patterns** 📊
+💡**Analyzing Previous Marketing Campaign Patterns** 
 
 - Description: Analysis of Bank Marketing Strategies for Future Success
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
 - GitHub Repository: [Bank Marketing Strategies for Future Success](https://github.com/P-MLSpecialist/Bank_Marketing_Strategies_for_Future_Success)
 
 ## Predictive model
-💡**Predict the Price Of Diamond (Regression Models)** 💍
+💡**Predict the Price Of Diamond (Regression Models)**
 
 - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
 - GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-MLSpecialist/Predict_Price_Of_Diamond/tree/main)
 - 
 ## Object segmentation
-💡 **Medical Image Segmentation (kidney stone)**🌐
+💡**Medical Image Segmentation (kidney stone)**
 
 ## Face recognition
 
 ## Object detection
-💡 **YOLOv8 Signs Detection** 🚦
+💡**YOLOv8 Signs Detection** 🚦
 
 - Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
 - Technologies: YOLOv8, PyTorch
 - GitHub Repository: [Traffic Signs Detection](https://github.com/P-MLSpecialist/Traffic-Signs-Detection-By-YOLOv8)
+  
 ## Object Tracking
 💡**YOLOv8 Car tracking** 🚗🎯
 
