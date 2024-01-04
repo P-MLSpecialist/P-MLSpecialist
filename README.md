@@ -20,7 +20,7 @@ Imputation, Scaling, Encoding
 - 💻 **Web Development:** Django
 
 
-# Projects
+## Projects
 
 The following are some of the notable data science projects I have worked on. Each project showcases my skills in data analysis, machine learning model development, and insights extraction.
 
@@ -52,7 +52,7 @@ The following are some of the notable data science projects I have worked on. Ea
 - Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
 - Technologies: sklearn, xgboost, catboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-MLSpecialist/Prediction_Of_Diabetes_XGBoost_CatBoost)
-- 
+
 💡**Analyzing Previous Marketing Campaign Patterns** 
 
 - Description: Analysis of Bank Marketing Strategies for Future Success
@@ -72,22 +72,22 @@ The following are some of the notable data science projects I have worked on. Ea
 ## Face recognition
 
 ## Object detection
-💡**YOLOv8 Signs Detection** 🚦
+💡**YOLOv8 Signs Detection**
 
 - Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
 - Technologies: YOLOv8, PyTorch
 - GitHub Repository: [Traffic Signs Detection](https://github.com/P-MLSpecialist/Traffic-Signs-Detection-By-YOLOv8)
   
 ## Object Tracking
-💡**YOLOv8 Car tracking** 🚗🎯
+💡**YOLOv8 Car tracking** 
 
 ## Emotion analysis
-💡**Facial Expression Recognition**😊
+💡**Facial Expression Recognition**
 
 ## Video analytics and surveillance
-💡**Number-Plate Reader**🚗🔢
+💡**Number-Plate Reader**
 
 
-## Get in Touch
+### Get in Touch
 If you have inquiries, or collaboration opportunities, or wish to delve into discussions regarding data science projects, please don't hesitate to get in touch. I welcome your outreach and can be reached via [email](P.K.MLSpecialist@gmail.com)
 
