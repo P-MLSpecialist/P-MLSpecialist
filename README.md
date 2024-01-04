@@ -1,25 +1,25 @@
-✨ Data is God in the world of Machine Learning✨
+✨ **Data** is God in the world of Machine Learning✨
 
-Hey Data Dreamers!
+**Hey Data Dreamers!**
 
 🚀 Ready to dive into a world where data reigns supreme? Let's make magic together! 
 
-I'm not just a Python Developer and Machine Learning Specialist; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in Machine Learning and Computer Vision as a researcher and developer.
+I'm not just a **Python Developer** and **Machine Learning Specialist**; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in **Machine Learning** and **Computer Vision** as a **researcher** and **developer**.
 
-# Core Skills:
+## Core Skills:
 
-🐍 **Programming:** Python
-🎛️ **Databases:** SQL Server, Redis, MongoDB, Elasticsearch
-🤖 **Machine Learning:** Supervised Learning, Unsupervised Learning, Gradient Boosting, Ensemble learning, Model Evaluation and
-Validation
-🛠️ **Feature Engineering:** Feature Selection, Feature Extraction, Dimensionality Reduction,
+- 🐍 **Programming:** Python
+- 🎛️ **Databases:** SQL Server, Redis, MongoDB, Elasticsearch
+- 🤖 **Machine Learning:** Supervised Learning, Unsupervised Learning, Gradient Boosting, Ensemble learning, Model Evaluation and
+- Validation
+- 🛠️ **Feature Engineering:** Feature Selection, Feature Extraction, Dimensionality Reduction,
 Imputation, Scaling, Encoding
-📊 **Data Manipulation & Analysis:** Pandas, NumPy, Data Cleaning, EDA 
-📈 **Data Visualization:** Matplotlib, Seaborn, Tableau 
-🧠 **Deep Learning:** TensorFlow, PyTorch, CNN, RNN, Auto Encoder, SOM, GANs, and YOLO. 
-📸 **Computer Vision:** Image Classification, Object Recognition, Image Processing, OpenCV, Object Detection, Object Segmentation, Object Tracking, Facial Recognition
-🌀 **Version Control:** GitHub 
-💻 **Web Development:** Django
+- 📊 **Data Manipulation & Analysis:** Pandas, NumPy, Data Cleaning, EDA 
+- 📈 **Data Visualization:** Matplotlib, Seaborn, Tableau 
+- 🧠 **Deep Learning:** TensorFlow, PyTorch, CNN, RNN, Auto Encoder, SOM, GANs, and YOLO. 
+- 📸 **Computer Vision:** Image Classification, Object Recognition, Image Processing, OpenCV, Object Detection, Object Segmentation, Object Tracking, Facial Recognition
+- 🌀 **Version Control:** GitHub 
+- 💻 **Web Development:** Django
 
 
 # Projects
