@@ -44,14 +44,14 @@ The following are some of the notable data science projects I have worked on. Ea
 💡**Ticket Cancellation Prediction (XGBoost Classifier)**
 - Description: This project aims to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
 - Technologies: sklearn, xgboost, GridSearchCV, ...
-- GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-MLSpecialist/Prediction_Of_Ticket_Cancellation_Acc_98/tree/main)
+- GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-MLSpecialist/Prediction_Of_Ticket_Cancellation_Acc_98)
 
 
 💡**Detection of Type-2 Diabetes Mellitus Disease**
 
 - Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
 - Technologies: sklearn, xgboost, catboost, GridSearchCV, ...
-- GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-MLSpecialist/Prediction_Of_Diabetes_XGBoost_CatBoost)
+- GitHub Repository: [Diagnose Type 2 Diabetes](https://github.com/P-MLSpecialist/Diagnose-Type-2-Diabetes)
 
 💡**Analyzing Previous Marketing Campaign Patterns** 
 
@@ -64,7 +64,7 @@ The following are some of the notable data science projects I have worked on. Ea
 
 - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
-- GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-MLSpecialist/Predict_Price_Of_Diamond/tree/main)
+- GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-MLSpecialist/Predict_Price_Of_Diamond)
 - 
 ## Object segmentation
 💡**Medical Image Segmentation (kidney stone)**
