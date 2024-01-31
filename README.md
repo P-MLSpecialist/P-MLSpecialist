@@ -27,7 +27,7 @@ The following are some of the notable data science projects I have worked on. Ea
 
 - Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
 - Technologies: Convolutional neural network, Pytorch, OOP
-- GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-MLSpecialist/Diagnosis-of-Diabetic-Retinopathy)
+- GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-MLSpecialist/Diagnosis-Diabetic-Retinopathy-Model)
   
 💡**Detection Brain Tumor (PyTorch)**
 - Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
