@@ -2,20 +2,18 @@
 
 🚀 **Data** is God in the world of Machine Learning! Ready to dive into a world where data reigns supreme? Let's make magic together!
 
-I'm not just a **Python Developer** and **Machine Learning Specialist**; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in **Machine Learning** and **Computer Vision** as a **researcher** and **developer**.
+I'm not just a **Python Developer** and **Machine Learning Specialist**; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in **Machine Learning** and **Computer Vision** as a **Researcher** and **Developer**.
 
 ## Core Skills:
 
 - 🐍 **Programming:** Python
-- 🎛️ **Databases:** SQL Server, Redis, MongoDB, Elasticsearch
-- 🤖 **Machine Learning:** Supervised Learning, Unsupervised Learning, Gradient Boosting, Ensemble learning, Model Evaluation and
-- Validation
-- 🛠️ **Feature Engineering:** Feature Selection, Feature Extraction, Dimensionality Reduction,
-Imputation, Scaling, Encoding
-- 📊 **Data Manipulation & Analysis:** Pandas, NumPy, Data Cleaning, EDA 
-- 📈 **Data Visualization:** Matplotlib, Seaborn, Tableau 
-- 🧠 **Deep Learning:** TensorFlow, PyTorch, CNN, RNN, Auto Encoder, SOM, GANs, and YOLO. 
-- 📸 **Computer Vision:** Image Classification, Object Recognition, Image Processing, OpenCV, Object Detection, Object Segmentation, Object Tracking, Facial Recognition
+- 🎛️ **Databases:** SQL Server| Redis| MongoDB| Elasticsearch
+- 🤖 **Machine Learning:** Supervised Learning| Unsupervised Learning| Gradient Boosting| Ensemble learning| Model Evaluation| Validation
+- 🛠️ **Feature Engineering:** Feature Selection| Feature Extraction| Dimensionality Reduction| Imputation| Scaling| Encoding
+- 📊 **Data Manipulation & Analysis:** Pandas| NumPy| Data Cleaning| EDA 
+- 📈 **Data Visualization:** Matplotlib| Seaborn| Tableau 
+- 🧠 **Deep Learning:** TensorFlow| PyTorch| CNN| RNN| Auto Encoder| SOM| GANs| YOLO 
+- 📸 **Computer Vision:** Image Classification| Object Recognition| Image Processing| OpenCV| Object Detection| Object Segmentation| Object Tracking| Facial Recognition
 - 🌀 **Version Control:** GitHub 
 - 💻 **Web Development:** Django
 
@@ -46,6 +44,11 @@ The following are some of the notable data science projects I have worked on. Ea
 - Technologies: sklearn, xgboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-MLSpecialist/Prediction_Of_Ticket_Cancellation_Acc_98)
 
+💡**Category Prediction in an Advertisement Website** 
+
+- Description: Category Prediction in an Advertisement Website
+- Technologies: sklearn, GridSearchCV, SVM, RandomForest, XGBoost, sklearn.metrics, Textual Vectorization, TF-IDF vectorization
+- GitHub Repository: [Category-Prediction-in-an-Advertisement-Website](https://github.com/P-MLSpecialist/Category-Prediction-in-an-Advertisement-Website)
 
 💡**Detection of Type-2 Diabetes Mellitus Disease**
 
@@ -65,21 +68,34 @@ The following are some of the notable data science projects I have worked on. Ea
 - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
 - GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-MLSpecialist/Predict_Price_Of_Diamond)
-- 
-## Object segmentation
-💡**Medical Image Segmentation (kidney stone)**
 
-## Face recognition
-
-## Object detection
+## Object Detection & Tracking
 💡**YOLOv8 Signs Detection**
 
 - Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
 - Technologies: YOLOv8, PyTorch
 - GitHub Repository: [Traffic Signs Detection](https://github.com/P-MLSpecialist/Traffic-Signs-Detection-By-YOLOv8)
-  
-## Object Tracking
-💡**YOLOv8 Car tracking** 
+
+💡**YOLOv8 Car Tracking** 
+
+## Generative AI
+💡**Generating Anime Faces**
+
+- Description: The project has successfully generated compelling anime faces that showcase the realism achieved with DCGAN
+- Technologies: TensorFlow, DCGAN
+- GitHub Repository: [Generating Anime Faces]((https://github.com/P-MLSpecialist/Generating-Anime-Faces))
+
+## Data Preprocessing 
+💡**Data Preprocessing For Machine Learning**
+
+- Description: Pre-processing Data: A Step-by-Step Guide and Professional Approach using Class Definition
+- Technologies: OOP, sklearnlearn, Feature Engineering, Feature selection 
+- GitHub Repository: [Data Preprocessing For Machine Learning](https://github.com/P-MLSpecialist/Data-Preprocessing-For-Machine-Learning)
+
+## Object segmentation
+💡**Medical Image Segmentation (Brain Tumor)**
+
+## Face recognition  
 
 ## Emotion analysis
 💡**Facial Expression Recognition**
