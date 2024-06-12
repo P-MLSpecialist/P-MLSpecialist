@@ -1,3 +1,7 @@
+Hey Data Fans! 🚀
+
+I'm a Machine Learning Specialist passionate about leveraging Machine Learning and Computer Vision to drive meaningful insights and create impactful solutions as a Researcher and Developer. Ready to make your data work wonders?
+
 ## Core Competencies:
 
 - 🐍 **Programming:** Proficient in Python
