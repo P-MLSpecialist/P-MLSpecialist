@@ -1,103 +1,94 @@
-## Core Skills:
+## Core Competencies:
 
-- 🐍 **Programming:** Python
-- 🎛️ **Databases:** SQL Server| Redis| MongoDB| Elasticsearch
-- 🤖 **Machine Learning:** Supervised Learning| Unsupervised Learning| Gradient Boosting| Ensemble learning| Model Evaluation| Validation
-- 🛠️ **Feature Engineering:** Feature Selection| Feature Extraction| Dimensionality Reduction| Imputation| Scaling| Encoding
-- 📊 **Data Manipulation & Analysis:** Pandas| NumPy| Data Cleaning| EDA 
-- 📈 **Data Visualization:** Matplotlib| Seaborn| Tableau 
-- 🧠 **Deep Learning:** TensorFlow| PyTorch| CNN| RNN| Auto Encoder| SOM| GANs| YOLO 
-- 📸 **Computer Vision:** Image Classification| Object Recognition| Image Processing| OpenCV| Object Detection| Object Segmentation| Object Tracking| Facial Recognition
-- 🌀 **Version Control:** GitHub 
-- 💻 **Web Development:** Django
-
+- 🐍 **Programming:** Proficient in Python
+- 🎛️ **Databases:** Experienced with SQL Server, MongoDB
+- 🤖 **Machine Learning:** Skilled in Supervised Learning, Unsupervised Learning, Gradient Boosting, Ensemble Learning, Model Evaluation, and Validation
+- 🛠️ **Feature Engineering:** Expertise in Feature Selection, Feature Extraction, Dimensionality Reduction, Imputation, Scaling, and Encoding
+- 📊 **Data Manipulation & Analysis:** Proficient with Pandas, NumPy, Data Cleaning, and Exploratory Data Analysis (EDA)
+- 📈 **Data Visualization:** Experienced with Matplotlib, Seaborn, and Tableau
+- 🧠 **Deep Learning:** Knowledgeable in TensorFlow, PyTorch, CNN, RNN, Autoencoders, SOM, GANs, and YOLO
+- 📸 **Computer Vision:** Proficient in Image Classification, Object Recognition, Image Processing, OpenCV, Object Detection, Segmentation, Tracking, and Facial Recognition
+- 🌀 **Version Control:** Skilled in GitHub
+- 💻 **Web Development:** Experienced in Django
 
 ## Projects
 
-The following are some of the notable data science projects I have worked on. Each project showcases my skills in data analysis, machine learning model development, and insights extraction.
+Below are some of the significant data science projects I've contributed to, demonstrating my abilities in data analysis, machine learning model development, and extracting insights.
 
-## Classification Models
-💡**Diagnosis Diabetic Retinopathy (PyTorch)**
+### Classification Models
+💡**Diabetic Retinopathy Detection (PyTorch)**
 
-- Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
-- Technologies: Convolutional neural network, Pytorch, OOP
+- Description: Developed a Convolutional Neural Network for detecting diabetic retinopathy.
+- Technologies: Convolutional Neural Network, PyTorch, Object-Oriented Programming
 - GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-MLSpecialist/Diagnosis-Diabetic-Retinopathy-Model)
   
-💡**Detection Brain Tumor (PyTorch)**
-- Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
-- Technologies: Convolutional neural network, Pytorch, OOP
+💡**Brain Tumor Detection (PyTorch)**
+- Description: Built a Convolutional Neural Network for diagnosing brain tumours (F1-score: 0.97).
+- Technologies: Convolutional Neural Network, PyTorch, Object-Oriented Programming
 - GitHub Repository: [Brain Tumor Detection](https://github.com/P-MLSpecialist/Brain-Tumor-Detection)
 
-💡**Pneumonia Diagnosis (Transfer Learning)**
-- Description: Chest X-ray Classification for Pneumonia Detection
-- Technologies: Convolutional neural network, TensorFlow, Transfer Learning
+💡**Pneumonia Detection (Transfer Learning)**
+- Description: Classified chest X-rays to detect pneumonia.
+- Technologies: Convolutional Neural Network, TensorFlow, Transfer Learning
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-MLSpecialist/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
    
 💡**Ticket Cancellation Prediction (XGBoost Classifier)**
-- Description: This project aims to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
-- Technologies: sklearn, xgboost, GridSearchCV, ...
+- Description: Developed a model to predict ticket cancellations to avoid fines for the ticket registration site.
+- Technologies: sklearn, XGBoost, GridSearchCV, etc.
 - GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-MLSpecialist/Prediction_Of_Ticket_Cancellation_Acc_98)
 
-💡**Category Prediction in an Advertisement Website** 
+💡**Advertisement Category Prediction** 
 
-- Description: Category Prediction in an Advertisement Website
-- Technologies: sklearn, GridSearchCV, SVM, RandomForest, XGBoost, sklearn.metrics, Textual Vectorization, TF-IDF vectorization
+- Description: Predicted categories in an advertisement website.
+- Technologies: sklearn, GridSearchCV, SVM, RandomForest, XGBoost, sklearn.metrics, Textual Vectorization, TF-IDF Vectorization
 - GitHub Repository: [Category-Prediction-in-an-Advertisement-Website](https://github.com/P-MLSpecialist/Category-Prediction-in-an-Advertisement-Website)
 
-💡**Detection of Type-2 Diabetes Mellitus Disease**
+💡**Type-2 Diabetes Detection**
 
-- Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
-- Technologies: sklearn, xgboost, catboost, GridSearchCV, ...
+- Description: Used XGBoost and CatBoost to predict diabetes.
+- Technologies: sklearn, XGBoost, CatBoost, GridSearchCV, etc.
 - GitHub Repository: [Diagnose Type 2 Diabetes](https://github.com/P-MLSpecialist/Diagnose-Type-2-Diabetes)
 
-💡**Analyzing Previous Marketing Campaign Patterns** 
+💡**Marketing Campaign Analysis** 
 
-- Description: Analysis of Bank Marketing Strategies for Future Success
-- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
+- Description: Analyzed bank marketing strategies to ensure future success.
+- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble methods, sklearn.metrics
 - GitHub Repository: [Bank Marketing Strategies for Future Success](https://github.com/P-MLSpecialist/Bank_Marketing_Strategies_for_Future_Success)
 
-## Predictive model
-💡**Predict the Price Of Diamond (Regression Models)**
+### Predictive Models
+💡**Diamond Price Prediction (Regression Models)**
 
-- Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
-- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
+- Description: Predicted diamond prices by analyzing their attributes.
+- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear models, ensemble methods, sklearn.metrics
 - GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-MLSpecialist/Predict_Price_Of_Diamond)
 
-## Object Detection & Tracking
-💡**YOLOv8 Signs Detection**
+### Object Detection & Tracking
+💡**Traffic Sign Detection (YOLOv8)**
 
-- Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
+- Description: Developed a YOLOv8-based model to detect traffic signs for competition self-driven car league.
 - Technologies: YOLOv8, PyTorch
 - GitHub Repository: [Traffic Signs Detection](https://github.com/P-MLSpecialist/Traffic-Signs-Detection-By-YOLOv8)
 
-💡**YOLOv8 Car Tracking** 
+💡**Car Tracking (YOLOv8)** 
 
-## Generative AI
-💡**Generating Anime Faces**
+💡**Anomalies Detection on Solar Panels (YOLOv8)**
 
-- Description: The project has successfully generated compelling anime faces that showcase the realism achieved with DCGAN
+### Generative AI
+💡**Anime Face Generation**
+
+- Description: Successfully generated realistic anime faces using DCGAN.
 - Technologies: TensorFlow, DCGAN
-- GitHub Repository: [Generating Anime Faces]((https://github.com/P-MLSpecialist/Generating-Anime-Faces))
+- GitHub Repository: [Generating Anime Faces](https://github.com/P-MLSpecialist/Generating-Anime-Faces)
 
-## Data Preprocessing 
-💡**Data Preprocessing For Machine Learning**
+### Data Preprocessing 
+💡**Data Preprocessing for Machine Learning**
 
-- Description: Pre-processing Data: A Step-by-Step Guide and Professional Approach using Class Definition
-- Technologies: OOP, sklearnlearn, Feature Engineering, Feature selection 
+- Description: Provided a step-by-step guide for professional data preprocessing using class definitions.
+- Technologies: OOP, sklearn, Feature Engineering, Feature Selection 
 - GitHub Repository: [Data Preprocessing For Machine Learning](https://github.com/P-MLSpecialist/Data-Preprocessing-For-Machine-Learning)
 
-## Object segmentation
+### Object Segmentation
 💡**Medical Image Segmentation (Brain Tumor)**
 
-## Face recognition  
-
-## Emotion analysis
-💡**Facial Expression Recognition**
-
-## Video analytics and surveillance
-💡**Number-Plate Reader**
-
-
-### Get in Touch
-If you have inquiries, or collaboration opportunities, or wish to delve into discussions regarding data science projects, please don't hesitate to get in touch. I welcome your outreach and can be reached via [email](P.K.MLSpecialist@gmail.com)
-
+### Contact Information
+Feel free to reach out if you have any questions, collaboration proposals, or wish to discuss data science projects. You can contact me via [email](P.K.MLSpecialist@gmail.com).
