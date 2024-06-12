@@ -90,4 +90,4 @@ Below are some of the significant data science projects I've contributed to, dem
 💡**Medical Image Segmentation (Brain Tumor)**
 
 ### Contact Information
-Feel free to reach out if you have any questions, or collaboration proposals, or wish to discuss data science projects. You can contact me via [email](P.K.MLSpecialist@gmail.com).
+Feel free to reach out if you have any questions, or collaboration proposals, or wish to discuss data science projects. You can contact me via [email]().
